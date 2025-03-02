@@ -4,7 +4,7 @@ Note: You want some beefy hardware to run the training as it implements GPT Larg
 
 Here are the instructions to run it:  
 Step 1.) Open the command line/terminal and go to the directory with the two files  
-Step 1.) To train, run "python script.py". You may need to use "pip install torch" or "pip install transformers" first.  
+Step 2.) To train, run "python script.py". You may need to use "pip install torch" or "pip install transformers" first.  
 This will automatically make a new folder in the same directory script.py is that contains the model. Everything needs to be within the same folder to run.  
-Step 2.) To chat with Emet-Selch, run "python run_emet_selch.py".  
-Step 3.) Use "quit" or "exit" to return to the command line when you can't stand his ego anymore
+Step 3.) To chat with Emet-Selch, run "python run_emet_selch.py".  
+Step 4.) Use "quit" or "exit" to return to the command line when you can't stand his ego anymore
